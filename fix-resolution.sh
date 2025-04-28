@@ -57,5 +57,3 @@ NoDisplay=false
 X-GNOME-Autostart-enabled=true
 EOF
 
-echo "تنظیمات انجام شد. لطفا سیستم را ریستارت کنید."
-```
